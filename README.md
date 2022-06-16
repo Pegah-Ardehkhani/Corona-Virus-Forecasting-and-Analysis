@@ -10,6 +10,8 @@
 
 [Github link: COVID-19 Data](https://github.com/CSSEGISandData/COVID-19)
 
+[Github link: Number of Hospital Beds Data](https://github.com/yzereh/Number-of-hospital-beds-/blob/master/n_of_hosp_beds.csv)
+
 <p align="center">
   <img width="800" height="400" src="https://github.com/Pegah-Ardehkhani/Corona-Virus-Forcasting-and-Analysis/blob/main/Total%20Number%20of%20Confirmed%20Cases%20in%20Each%20Country.png">
 </p>
