@@ -2,8 +2,14 @@
 
 > **`Note`**: Use [**nbviewer**](https://nbviewer.org/github/Pegah-Ardehkhani/Corona-Virus-Forcasting-and-Analysis/blob/main/Corona%20Virus%20Forcasting%20and%20Analysis.ipynb) (recommended) or google colab in order to view interactive plotly graphs.
 
+<p align="center">
+  <img width="500" height="250" src="https://www.ukemed.com/assets/Files/Images/Corona.gif">
+</p>
 
+## Dataset 📔
+
+[Github link: COVID-19 Data](https://github.com/CSSEGISandData/COVID-19)
 
 <p align="center">
-  <img width="600" height="300" src="https://blog.accessdevelopment.com/hs-fs/hubfs/magnet%20customers.gif?width=463&name=magnet%20customers.gif">
+  <img width="800" height="400" src="https://github.com/Pegah-Ardehkhani/Corona-Virus-Forcasting-and-Analysis/blob/main/Total%20Number%20of%20Confirmed%20Cases%20in%20Each%20Country.png">
 </p>
